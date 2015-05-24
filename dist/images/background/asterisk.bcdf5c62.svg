@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="329px" height="304px" viewBox="0 0 329 304" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>background/asterisk</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Top" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop-HD" sketch:type="MSArtboardGroup" transform="translate(-705.000000, -18.000000)" fill="#4A4A4A">
+            <g id="background" sketch:type="MSLayerGroup">
+                <path d="M896.495116,140.253944 L896.495116,18 L839.154771,18 L839.154771,140.253944 L724.47408,96.9782119 L705,148.909091 L819.680691,190.021037 L749.357626,288.473328 L798.042825,322.012021 L868.36589,218.150263 L943.016529,322.012021 L987.374155,288.473328 L915.969196,190.021037 L1033.89557,148.909091 L1012.2577,96.9782119 L896.495116,140.253944 Z" id="background/asterisk" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "firebase": "heavymery",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
